@@ -1,5 +1,0 @@
-node_modules
-build
-.storybook
-*.stories.tsx
-next.config.js
